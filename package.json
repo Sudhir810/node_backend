@@ -1,0 +1,11 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "dont know exactly what i will make",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sudhir taneja",
+  "license": "ISC"
+}
